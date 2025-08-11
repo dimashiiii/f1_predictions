@@ -1,0 +1,7 @@
+fastf1
+pandas 
+numpy
+requests
+scikit-learn
+matplotlib
+ipykernel
